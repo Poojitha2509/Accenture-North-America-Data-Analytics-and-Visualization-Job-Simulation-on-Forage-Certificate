@@ -9,4 +9,4 @@ Completed Accenture's Data Analytics and Visualization Job Simulation on Forage,
 ## Internship Certificate
 <a href="https://github.com/Poojitha2509/Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation-on-Forage-Certificate/blob/main/Accenture_completion_certificate.pdf"> Certificate </a>
 ## Conclusion
-- Successfully completed Accenture's Data Analytics & Visualization simulation, enhancing skills in data analysis, visualization, and business insights.
+- I successfully completed Accenture's Data Analytics and Visualization job simulation on Forage, where I gained hands-on experience in data analysis, visualization, and storytelling. This experience enhanced my skills in working with data and presenting insights effectively.
