@@ -7,3 +7,4 @@ Completed Accenture's Data Analytics and Visualization Job Simulation on Forage,
 - Storytelling
 - Teamwork
 ## Internship Certificate
+<a href="https://github.com/Poojitha2509/Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation-on-Forage-Certificate/blob/main/Accenture_completion_certificate.pdf"> Certificate </a>
