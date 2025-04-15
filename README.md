@@ -6,3 +6,4 @@ Completed Accenture's Data Analytics and Visualization Job Simulation on Forage,
 - Data Visualization
 - Storytelling
 - Teamwork
+## Internship Certificate
